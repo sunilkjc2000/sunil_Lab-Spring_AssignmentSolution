@@ -10,4 +10,4 @@
 
 **Security features has been disabled as there were issues and could not complete with in project deadline**
 
-## UI images are placed in project root images folder
+## UI images are placed in repository root images folder
